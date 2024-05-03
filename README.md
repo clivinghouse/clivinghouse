@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clivinghouse
-- 👀 I’m interested in Angular and NodeJs Development 
-- 🌱 I’m currently learning Java Amazon Corretto
-- 💞️ I’m looking to collaborate on Inventory Management Systems
+- 👀 I’m interested in Application Dev. 
+- 🌱 I’m currently looking for a place to grow
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me clivinghouse@mertandhouse.com
 
 <!---
